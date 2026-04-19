@@ -39,7 +39,7 @@ Claude Code has a native plugin marketplace. From an active session:
 
 ```
 /plugin marketplace add stoating/clojure-integrant-skill
-/plugin install clojure-integrant@clojure-integrant-skill
+/plugin install integrant@clojure-integrant-skill
 ```
 
 The skill is then discovered automatically. Restart the session if it isn't picked up immediately. Once installed, invoke it with:
@@ -58,7 +58,7 @@ Reference: [Claude Code plugin marketplaces](https://code.claude.com/docs/en/plu
 
 ```
 /plugin marketplace add stoating/plugins
-/plugin install clojure-integrant@stoating
+/plugin install integrant@stoating
 ```
 
 ### C) Claude Code (manual copy)
