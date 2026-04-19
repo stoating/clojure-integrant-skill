@@ -1,0 +1,17 @@
+{
+  "name": "clojure-integrant-skill",
+  "metadata": {
+    "description": "Clojure Integrant skill set for AI coding agents — data-driven application architecture, init-key, halt-key!, suspend/resume, refs, refsets, composite keys, derived keywords, profiles, vars, expand-key, and REPL workflow."
+  },
+  "owner": {
+    "name": "stoating"
+  },
+  "plugins": [
+    {
+      "name": "clojure-integrant",
+      "source": "./",
+      "description": "Clojure Integrant skill — data-driven application architecture, init-key, halt-key!, suspend/resume, refs, refsets, composite keys, derived keywords, profiles, vars, expand-key, and REPL workflow.",
+      "version": "0.1.0"
+    }
+  ]
+}
